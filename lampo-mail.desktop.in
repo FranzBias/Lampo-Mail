@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Name=Lampo Mail
+GenericName=Quick e-mail draft
+GenericName[it]=Bozza email veloce
+GenericName[de]=Schneller E-Mail-Entwurf
+Comment=Prepare an e-mail in a flash and hand it to your mail program
+Comment[it]=Prepara un'email in un lampo e passala al tuo programma di posta
+Exec=python3 "@APPDIR@/Lampo-Mail.py"
+Path=@APPDIR@
+Icon=mail-message-new
+Terminal=false
+Categories=Network;Email;Utility;
+Keywords=mail;email;draft;thunderbird;mailto;
+StartupNotify=true
