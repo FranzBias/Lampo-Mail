@@ -1,4 +1,14 @@
 #!/usr/bin/env bash
+##########################################################
+##                 Lampo Mail · install                 ##
+##            Per-user installation, no sudo            ##
+##                   written in Bash                    ##
+##                          🇮🇹                          ##
+##       by FranzBias 2026 · github.com/FranzBias       ##
+##            Licensed under the MIT License            ##
+##          See LICENSE file for full license.          ##
+##########################################################
+# SPDX-License-Identifier: MIT
 # Lampo Mail — installation for the current user only (no sudo).
 # Copies the app to ~/.local/share/lampo-mail and adds the menu entry.
 set -euo pipefail

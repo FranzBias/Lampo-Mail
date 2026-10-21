@@ -27,7 +27,7 @@
 - **It remembers** — the senders and recipients you use are kept for next time; a 🗑 removes any address you no longer want.
 - **Address book at hand** — a panel on the right with search and «To» / «Cc» buttons; typing in a field also suggests addresses.
 - **Attachments** — add as many files as you like; they go straight into the draft.
-- **Email Picker friendly** — if you use Email Picker, your own addresses are one click away as sender (📧), and 💾 saves a new sender into one of its sections (after a backup copy). *Needs the next release of [Email Picker](https://github.com/FranzBias/email-picker), coming soon.*
+- **Email Picker friendly** — if you use Email Picker, your own addresses are one click away as sender (📧), and 💾 saves a new sender into one of its sections (after a backup copy). *→ [Email Picker](https://github.com/FranzBias/email-picker) ≥ 2.1*
 - **Italian and English** — follows the system language (`LAMPO_MAIL_LANG=it` or `en` to choose).
 
 ### 🛠️ Requirements
@@ -83,7 +83,7 @@ Lampo Mail is a sister of my **[Command Swiss Army Knife](https://github.com/Fra
 - **Si ricorda** — mittenti e destinatari usati restano per la volta dopo; un 🗑 toglie gli indirizzi che non vuoi più.
 - **Rubrica a portata di mano** — un pannello a destra con ricerca e pulsanti «A» / «Cc»; scrivendo in un campo arrivano anche i suggerimenti.
 - **Allegati** — aggiungi tutti i file che vuoi, finiscono direttamente nella bozza.
-- **Amica di Email Picker** — se usi Email Picker, i tuoi indirizzi sono a un clic come Mittente (📧), e 💾 salva un nuovo mittente in una delle sue sezioni (dopo una copia di sicurezza). *Richiede la prossima versione di [Email Picker](https://github.com/FranzBias/email-picker), in arrivo.*
+- **Amica di Email Picker** — se usi Email Picker, i tuoi indirizzi sono a un clic come Mittente (📧), e 💾 salva un nuovo mittente in una delle sue sezioni (dopo una copia di sicurezza). *→ [Email Picker](https://github.com/FranzBias/email-picker) ≥ 2.1*
 - **Italiano e inglese** — segue la lingua del sistema (`LAMPO_MAIL_LANG=it` o `en` per scegliere).
 
 ### 🛠️ Requisiti
@@ -139,7 +139,7 @@ Lampo Mail è sorella della mia **[Command Swiss Army Knife](https://github.com/
 - **Merkt sich alles** — benutzte Absender und Empfänger bleiben fürs nächste Mal; ein 🗑 entfernt Adressen, die du nicht mehr brauchst.
 - **Adressbuch griffbereit** — ein Feld rechts mit Suche und den Knöpfen «An» / «Cc»; beim Tippen gibt es auch Vorschläge.
 - **Anhänge** — beliebig viele Dateien, sie landen direkt im Entwurf.
-- **Versteht sich mit Email Picker** — wenn du Email Picker nutzt, sind deine eigenen Adressen mit einem Klick als Absender da (📧), und 💾 speichert einen neuen Absender in einem seiner Bereiche (nach einer Sicherungskopie). *Benötigt die nächste Version von [Email Picker](https://github.com/FranzBias/email-picker), bald verfügbar.*
+- **Versteht sich mit Email Picker** — wenn du Email Picker nutzt, sind deine eigenen Adressen mit einem Klick als Absender da (📧), und 💾 speichert einen neuen Absender in einem seiner Bereiche (nach einer Sicherungskopie). *→ [Email Picker](https://github.com/FranzBias/email-picker) ≥ 2.1*
 - **Italienisch und Englisch** — folgt der Systemsprache (`LAMPO_MAIL_LANG=it` oder `en` zum Festlegen).
 
 ### 🛠️ Voraussetzungen
@@ -195,7 +195,7 @@ Lampo Mail ist die Schwester meiner App **[Command Swiss Army Knife](https://git
 - **Recuerda** — los remitentes y destinatarios que usas se guardan para la próxima vez; un 🗑 quita las direcciones que ya no quieres.
 - **Libreta a mano** — un panel a la derecha con búsqueda y botones «Para» / «Cc»; al escribir en un campo también aparecen sugerencias.
 - **Adjuntos** — añade todos los archivos que quieras, van directos al borrador.
-- **Amiga de Email Picker** — si usas Email Picker, tus propias direcciones están a un clic como remitente (📧), y 💾 guarda un remitente nuevo en una de sus secciones (tras una copia de seguridad). *Requiere la próxima versión de [Email Picker](https://github.com/FranzBias/email-picker), muy pronto.*
+- **Amiga de Email Picker** — si usas Email Picker, tus propias direcciones están a un clic como remitente (📧), y 💾 guarda un remitente nuevo en una de sus secciones (tras una copia de seguridad). *→ [Email Picker](https://github.com/FranzBias/email-picker) ≥ 2.1*
 - **Italiano e inglés** — sigue el idioma del sistema (`LAMPO_MAIL_LANG=it` o `en` para elegir).
 
 ### 🛠️ Requisitos
@@ -251,7 +251,7 @@ Lampo Mail es hermana de mi **[Command Swiss Army Knife](https://github.com/Fran
 - **Elle se souvient** — les expéditeurs et destinataires utilisés sont gardés pour la prochaine fois ; un 🗑 retire les adresses dont tu ne veux plus.
 - **Carnet d'adresses à portée de main** — un panneau à droite avec recherche et boutons «À» / «Cc» ; en tapant dans un champ, des suggestions apparaissent aussi.
 - **Pièces jointes** — ajoute autant de fichiers que tu veux, ils vont directement dans le brouillon.
-- **Amie d'Email Picker** — si tu utilises Email Picker, tes propres adresses sont à un clic comme expéditeur (📧), et 💾 enregistre un nouvel expéditeur dans une de ses sections (après une copie de sauvegarde). *Nécessite la prochaine version d'[Email Picker](https://github.com/FranzBias/email-picker), bientôt disponible.*
+- **Amie d'Email Picker** — si tu utilises Email Picker, tes propres adresses sont à un clic comme expéditeur (📧), et 💾 enregistre un nouvel expéditeur dans une de ses sections (après une copie de sauvegarde). *→ [Email Picker](https://github.com/FranzBias/email-picker) ≥ 2.1*
 - **Italien et anglais** — suit la langue du système (`LAMPO_MAIL_LANG=it` ou `en` pour choisir).
 
 ### 🛠️ Prérequis
@@ -307,7 +307,7 @@ Lampo Mail est la sœur de mon appli **[Command Swiss Army Knife](https://github
 - **Onthoudt alles** — gebruikte afzenders en ontvangers blijven bewaard voor de volgende keer; een 🗑 verwijdert adressen die je niet meer wilt.
 - **Adresboek bij de hand** — een paneel rechts met zoeken en de knoppen «Aan» / «Cc»; tijdens het typen verschijnen ook suggesties.
 - **Bijlagen** — voeg zoveel bestanden toe als je wilt, ze gaan direct in het concept.
-- **Vriend van Email Picker** — gebruik je Email Picker, dan zijn je eigen adressen met één klik beschikbaar als afzender (📧), en 💾 slaat een nieuwe afzender op in een van zijn secties (na een reservekopie). *Vereist de volgende versie van [Email Picker](https://github.com/FranzBias/email-picker), binnenkort beschikbaar.*
+- **Vriend van Email Picker** — gebruik je Email Picker, dan zijn je eigen adressen met één klik beschikbaar als afzender (📧), en 💾 slaat een nieuwe afzender op in een van zijn secties (na een reservekopie). *→ [Email Picker](https://github.com/FranzBias/email-picker) ≥ 2.1*
 - **Italiaans en Engels** — volgt de systeemtaal (`LAMPO_MAIL_LANG=it` of `en` om te kiezen).
 
 ### 🛠️ Vereisten
@@ -363,7 +363,7 @@ Lampo Mail is de zus van mijn **[Command Swiss Army Knife](https://github.com/Fr
 - **Всё помнит** — использованные отправители и получатели сохраняются на следующий раз; 🗑 удаляет ненужные адреса.
 - **Адресная книга под рукой** — панель справа с поиском и кнопками «Кому» / «Копия»; при вводе в поле появляются подсказки.
 - **Вложения** — добавляйте сколько угодно файлов, они сразу попадают в черновик.
-- **Дружит с Email Picker** — если вы пользуетесь Email Picker, ваши адреса доступны одним щелчком как отправитель (📧), а 💾 сохраняет нового отправителя в один из его разделов (после резервной копии). *Требуется следующая версия [Email Picker](https://github.com/FranzBias/email-picker), скоро.*
+- **Дружит с Email Picker** — если вы пользуетесь Email Picker, ваши адреса доступны одним щелчком как отправитель (📧), а 💾 сохраняет нового отправителя в один из его разделов (после резервной копии). *→ [Email Picker](https://github.com/FranzBias/email-picker) ≥ 2.1*
 - **Итальянский и английский** — следует языку системы (`LAMPO_MAIL_LANG=it` или `en` для выбора).
 
 ### 🛠️ Требования
@@ -419,7 +419,7 @@ Lampo Mail — сестра моего приложения **[Command Swiss Arm
 - **يتذكّر** — يحتفظ بالمرسلين والمستلمين الذين تستخدمهم للمرة القادمة؛ وزر 🗑 يحذف العناوين التي لم تعد تريدها.
 - **دفتر العناوين في متناولك** — لوحة على اليمين مع بحث وزرّي «إلى» / «نسخة»؛ وتظهر اقتراحات أثناء الكتابة.
 - **المرفقات** — أضف ما تشاء من الملفات، فتذهب مباشرة إلى المسودة.
-- **صديق Email Picker** — إن كنت تستخدم Email Picker فعناوينك متاحة بنقرة كمرسل (📧)، و💾 يحفظ مرسلًا جديدًا في أحد أقسامه (بعد نسخة احتياطية). *يتطلب الإصدار القادم من [Email Picker](https://github.com/FranzBias/email-picker)، قريبًا.*
+- **صديق Email Picker** — إن كنت تستخدم Email Picker فعناوينك متاحة بنقرة كمرسل (📧)، و💾 يحفظ مرسلًا جديدًا في أحد أقسامه (بعد نسخة احتياطية). *→ [Email Picker](https://github.com/FranzBias/email-picker) ≥ 2.1*
 - **الإيطالية والإنجليزية** — يتبع لغة النظام (`LAMPO_MAIL_LANG=it` أو `en` للاختيار).
 
 ### 🛠️ المتطلبات
@@ -475,7 +475,7 @@ Lampo Mail شقيق تطبيقي **[Command Swiss Army Knife](https://github.com
 - **记得住** — 用过的发件人和收件人会保存到下次；🗑 可以删除不再需要的地址。
 - **通讯录随手可用** — 右侧面板带搜索以及「收件人」/「抄送」按钮；在字段中输入时也会给出建议。
 - **附件** — 想加多少文件都行，它们会直接放进草稿。
-- **与 Email Picker 配合** — 如果你使用 Email Picker，你自己的地址一键即可作为发件人（📧），💾 可将新发件人保存到它的某个分区（先做备份）。*需要 [Email Picker](https://github.com/FranzBias/email-picker) 的下一个版本，即将推出。*
+- **与 Email Picker 配合** — 如果你使用 Email Picker，你自己的地址一键即可作为发件人（📧），💾 可将新发件人保存到它的某个分区（先做备份）。*→ [Email Picker](https://github.com/FranzBias/email-picker) ≥ 2.1*
 - **意大利语和英语** — 跟随系统语言（用 `LAMPO_MAIL_LANG=it` 或 `en` 指定）。
 
 ### 🛠️ 环境要求
@@ -531,7 +531,7 @@ Lampo Mail 是我的 **[Command Swiss Army Knife](https://github.com/FranzBias/C
 - **覚えている** — 使った差出人と宛先は次回のために保存され、🗑 で不要なアドレスを削除できます。
 - **アドレス帳をすぐそばに** — 右側に検索と「宛先」/「Cc」ボタン付きのパネル。入力中には候補も表示されます。
 - **添付ファイル** — 好きなだけファイルを追加でき、そのまま下書きに入ります。
-- **Email Picker と連携** — Email Picker を使っていれば、自分のアドレスをワンクリックで差出人にでき（📧）、💾 で新しい差出人をそのセクションに保存できます（先にバックアップを作成）。*[Email Picker](https://github.com/FranzBias/email-picker) の次のバージョンが必要です（近日公開）。*
+- **Email Picker と連携** — Email Picker を使っていれば、自分のアドレスをワンクリックで差出人にでき（📧）、💾 で新しい差出人をそのセクションに保存できます（先にバックアップを作成）。*→ [Email Picker](https://github.com/FranzBias/email-picker) ≥ 2.1*
 - **イタリア語と英語** — システムの言語に従います（`LAMPO_MAIL_LANG=it` または `en` で指定）。
 
 ### 🛠️ 必要環境

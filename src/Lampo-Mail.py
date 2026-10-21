@@ -1,5 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+##########################################################
+##                      Lampo Mail                      ##
+##              An e-mail draft in a flash              ##
+##             written in Python 3 · GTK 3              ##
+##                          🇮🇹                          ##
+##       by FranzBias 2026 · github.com/FranzBias       ##
+##            Licensed under the MIT License            ##
+##          See LICENSE file for full license.          ##
+##########################################################
+# SPDX-License-Identifier: MIT
 """
 Lampo Mail ⚡ — scrivi un messaggio in un lampo e passalo al tuo programma di posta.
 
